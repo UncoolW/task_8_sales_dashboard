@@ -1,0 +1,11 @@
+# Power BI cache and autosaves
+*.pbix.autosave
+*.tmp
+*.bak
+
+# Dataset backup copies
+*.csv~
+
+# System/OS files
+.DS_Store
+Thumbs.db
